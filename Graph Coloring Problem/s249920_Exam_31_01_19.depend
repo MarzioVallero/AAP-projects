@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1549030235 source:c:\users\utente\desktop\s249920_exam_31_01_19\graph.c
+	"graph.h"
+
+1549030235 c:\users\utente\desktop\s249920_exam_31_01_19\graph.h
+	"limits.h"
+	"util.h"
+
+1546852532 c:\users\utente\desktop\s249920_exam_31_01_19\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546860772 source:c:\users\utente\desktop\s249920_exam_31_01_19\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1546859733 c:\users\utente\desktop\s249920_exam_31_01_19\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1546852522 c:\users\utente\desktop\s249920_exam_31_01_19\queuepublic.h
+	<stdio.h>
+
+1546852527 source:c:\users\utente\desktop\s249920_exam_31_01_19\util.c
+	"util.h"
+
+1549032407 source:c:\users\utente\desktop\s249920_exam_31_01_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"graph_addon.h"
+
+1547571385 source:c:\users\utente\desktop\s249920_exam_31_01_19\graph_addon.c
+	"graph_addon.h"
+
+1549017573 c:\users\utente\desktop\s249920_exam_31_01_19\graph_addon.h
+	"graph.h"
+	"queuePublic.h"
+
+1549039251 source:c:\users\marzio\desktop\s249920_exam_31_01_19\graph.c
+	"graph.h"
+
+1549030236 c:\users\marzio\desktop\s249920_exam_31_01_19\graph.h
+	"limits.h"
+	"util.h"
+
+1546852534 c:\users\marzio\desktop\s249920_exam_31_01_19\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1547571386 source:c:\users\marzio\desktop\s249920_exam_31_01_19\graph_addon.c
+	"graph_addon.h"
+
+1549017574 c:\users\marzio\desktop\s249920_exam_31_01_19\graph_addon.h
+	"graph.h"
+	"queuePublic.h"
+
+1546852524 c:\users\marzio\desktop\s249920_exam_31_01_19\queuepublic.h
+	<stdio.h>
+
+1546860774 source:c:\users\marzio\desktop\s249920_exam_31_01_19\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1546859734 c:\users\marzio\desktop\s249920_exam_31_01_19\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1546852528 source:c:\users\marzio\desktop\s249920_exam_31_01_19\util.c
+	"util.h"
+
+1549105171 source:c:\users\marzio\desktop\s249920_exam_31_01_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"graph_addon.h"
+
+1549039251 source:c:\users\marzio\desktop\s249920\graph.c
+	"graph.h"
+
+1549030236 c:\users\marzio\desktop\s249920\graph.h
+	"limits.h"
+	"util.h"
+
+1546852534 c:\users\marzio\desktop\s249920\util.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1547571386 source:c:\users\marzio\desktop\s249920\graph_addon.c
+	"graph_addon.h"
+
+1549017574 c:\users\marzio\desktop\s249920\graph_addon.h
+	"graph.h"
+	"queuePublic.h"
+
+1546852524 c:\users\marzio\desktop\s249920\queuepublic.h
+	<stdio.h>
+
+1549105171 source:c:\users\marzio\desktop\s249920\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"graph_addon.h"
+
+1546860774 source:c:\users\marzio\desktop\s249920\queue.c
+	"queuePrivate.h"
+	"util.h"
+
+1546859734 c:\users\marzio\desktop\s249920\queueprivate.h
+	"util.h"
+	"queuePublic.h"
+
+1546852528 source:c:\users\marzio\desktop\s249920\util.c
+	"util.h"
+

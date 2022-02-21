@@ -1,0 +1,7 @@
+4 0
+AaA BbB
+AaA CcC
+AaA DdD
+BbB CcC
+BbB DdD
+CcC DdD

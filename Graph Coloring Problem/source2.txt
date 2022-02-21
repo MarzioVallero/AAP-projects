@@ -1,0 +1,6 @@
+4 0
+aaa bbb
+aaa ccc
+bbb ccc
+bbb ddd
+ccc ddd
